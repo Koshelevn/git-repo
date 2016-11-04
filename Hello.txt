@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Hello
 Hello
 Hello
 advanced
 123
+=======
+Hello;
+Hello;
+Hello;
+>>>>>>> refs/remotes/origin/master
